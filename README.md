@@ -1,4 +1,4 @@
-Code and data repository for Gibert, Han, Wieczynski and Yammine, "Rapid plastic shifts in body size precede and determine population growth". In Review.
+Code and data repository for "Rapid plastic shifts in body size precede and determine population growth". In Review.
 
 SUMMARY
 1. Body size is a fundamental trait linked to many ecological processes—from individuals to ecosystems. Although the effects of body size on metabolism are well-known, how body size influences, and is influenced by, population growth and density is less clear. Specifically, 1) whether body size, or population dynamics, more strongly influences the other, and, 2) whether observed changes in body size are due to plasticity or rapid evolutionary change, are not well understood. 
