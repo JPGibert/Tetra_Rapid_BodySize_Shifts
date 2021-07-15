@@ -1,7 +1,3 @@
-#########################################################
-####  			Jean-Philippe Gibert, PhD. 			 ####	
-####	Code for Gibert, Han, Wieczynski & Yammine   ####		
-#########################################################
 
 ## INIT Packages
 library("dplyr")
@@ -13,14 +9,12 @@ library("ggridges")
 library("RColorBrewer")
 library("viridis")
 library("lattice")
-setwd("~/Desktop/JP/Papers_in_progress/JP_Tetra_Eco_Pheno_no_T")
+setwd("ADD PATH HERE")
 
 ## LOAD DATA
-data <- read.csv("~/Desktop/JP/Papers_in_progress/JP_Tetra_Eco_Pheno_no_T/Manuscript/Git_Hub/data.csv")
-
-data_1 <- read.csv("~/Desktop/JP/Papers_in_progress/JP_Tetra_Eco_Pheno_no_T/Manuscript/Git_Hub/data_1.csv")
-data_2 <- read.csv("~/Desktop/JP/Papers_in_progress/JP_Tetra_Eco_Pheno_no_T/Manuscript/Git_Hub/data_2.csv")
-data_3 <- read.csv("~/Desktop/JP/Papers_in_progress/JP_Tetra_Eco_Pheno_no_T/Manuscript/Git_Hub/data_3.csv")
+data_1 <- read.csv("ADD PATH HERE/data_1.csv")
+data_2 <- read.csv("ADD PATH HERE/data_2.csv")
+data_3 <- read.csv("ADD PATH HERE/data_3.csv")
 
 data <- rbind(data_1,data_2,data_3)
 
