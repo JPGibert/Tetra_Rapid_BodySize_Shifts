@@ -11,7 +11,7 @@ Paper can be accessed at:
 
 Repository comprised of: 
   1) R code to reproduce all analyses and figures: "Analyses.R" 
-  2) Data files (divided in three to upload to GitHub):/
-        data_1.csv (first 50k individuals)/
-        data_2.csv  (second 50k individuals)/
+  2) Data files (divided in three to upload to GitHub):\
+        data_1.csv (first 50k individuals)\
+        data_2.csv  (second 50k individuals)\
         data_3.csv  (last ~50k individuals)
