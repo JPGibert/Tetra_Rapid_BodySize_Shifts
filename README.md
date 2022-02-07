@@ -11,7 +11,10 @@ Paper can be accessed at:
 
 Repository comprised of: 
   1) R code to reproduce all analyses and figures: "Analyses.R" 
-  2) Data files (divided in three to upload to GitHub):\
+  2) Data files for time series analyses (divided in three because of GitHub file size constraints):\
         data_1.csv (first 50k individuals)\
         data_2.csv  (second 50k individuals)\
-        data_3.csv  (last ~50k individuals)
+        data_3.csv  (last ~50k individuals)\
+  3) Data files for experimental maniuplations:
+        Density_on_Size.csv (Experimental manipulation of Density)
+        Size_on_Density.csv (Experimental manipulation of Body Size)
