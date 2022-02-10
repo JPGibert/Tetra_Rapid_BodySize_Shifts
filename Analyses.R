@@ -1,7 +1,4 @@
-#########################################################
-####  			Jean-Philippe Gibert, PhD. 			####	
-####	Code for Gibert, Han, Wieczynski & Yammine   ####		
-#########################################################
+
 
 ## INIT Packages
 library("dplyr")
