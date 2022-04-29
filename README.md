@@ -1,4 +1,11 @@
-Code and data repository for "Rapid plastic shifts in body size precede and determine population growth". In Review.
+Code and data repository for 
+
+Feedbacks between size and density determine rapid eco-phenotypic dynamics
+Jean P. Gibert1*, Ze-Yi Han1, Daniel J. Wieczynski1, Samantha Votzke1, Andrea Yammine1
+1Department of Biology, Duke University, Durham NC, USA
+			*Corresponding author: jean.gibert@duke.edu 
+
+
 
 SUMMARY
 1. Body size is a fundamental trait linked to many ecological processes—from individuals to ecosystems. Although the effects of body size on metabolism are well-known, the potential reciprocal effects of body size and density are less clear. Specifically, 1) whether changes in body size or density more strongly influence the other and 2) whether coupled rapid changes in body size and density are due to plasticity, rapid evolutionary change, or a combination of both. 
