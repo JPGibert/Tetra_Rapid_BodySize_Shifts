@@ -5,6 +5,7 @@ Jean P. Gibert1*, Ze-Yi Han1, Daniel J. Wieczynski1, Samantha Votzke1, Andrea Ya
 1Department of Biology, Duke University, Durham NC, USA\
 			*Corresponding author: jean.gibert@duke.edu 
 
+[![DOI](https://zenodo.org/badge/386067708.svg)](https://zenodo.org/badge/latestdoi/386067708)
 
 
 SUMMARY
