@@ -1,6 +1,6 @@
-Code and data repository for\ 
+Code and data repository for 
 
-*Feedbacks between size and density determine rapid eco-phenotypic dynamics* \
+**Feedbacks between size and density determine rapid eco-phenotypic dynamics** \
 Jean P. Gibert1*, Ze-Yi Han1, Daniel J. Wieczynski1, Samantha Votzke1, Andrea Yammine1\
 1Department of Biology, Duke University, Durham NC, USA\
 			*Corresponding author: jean.gibert@duke.edu 
